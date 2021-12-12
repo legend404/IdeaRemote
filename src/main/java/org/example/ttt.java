@@ -9,5 +9,6 @@ public class ttt {
     public static void main(String[] args) {
         System.out.println("hello idea github");
         System.out.println("other one update");
+        System.out.println("发出性感的声音");
     }
 }
