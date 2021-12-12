@@ -8,5 +8,6 @@ package org.example;
 public class ttt {
     public static void main(String[] args) {
         System.out.println("hello idea github");
+        System.out.println("other one update");
     }
 }
